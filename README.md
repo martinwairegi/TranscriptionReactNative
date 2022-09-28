@@ -1,5 +1,5 @@
 # TranscriptionReactNative
-<p align="center"><img src="https://github.com/martinwairegi/TranscriptionReactNativeblob/master/images/previews.png?raw=true" width="600"></p>
+<p align="center"><img src="https://github.com/martinwairegi/TranscriptionReactNative/images/previews.png?raw=true" width="600"></p>
 
 ## Getting Started
 
